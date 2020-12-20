@@ -14,3 +14,9 @@ At the end, the bill will be regenerated and the choice menu will be dipaled aga
 VERSION or DATE:16 juillet 2019
 
 AUTHORS: Michael Plasse-Laflamme et Iskander Louafi
+
+Instructions: 
+1- Open the foder on Vs code
+2- Click on "Run" in the menu bar
+3- Click "Start Debugging"
+4- a terminal will be opened and the main program menu will be  dispayed on that terminal.
